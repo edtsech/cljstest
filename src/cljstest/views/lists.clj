@@ -1,0 +1,6 @@
+(ns cljstest.views.lists
+  (:use [noir.core :only [defpage]]
+        [cljstest.views.common]))
+
+(defpage "/" [] 
+         (layout "Hello World"))
