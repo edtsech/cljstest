@@ -17,6 +17,11 @@ Noir & ClojureScript Hello World
 
 [jayq](https://github.com/ibdknox/jayq)
 
+## TODO
+
+* Add jayq example
+* Add Google Closure example
+
 ## License
 
 Copyright (C) 2012 Edward Tsech
