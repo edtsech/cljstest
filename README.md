@@ -4,7 +4,8 @@ Noir & ClojureScript Hello World
 
 ## Usage
 
-1. Install Leiningen, [2 version](https://raw.github.com/technomancy/leiningen/preview/bin/lein) is recommended;
+1. Clojure doesn't have to be on your system, it will be automatically installaed as project dependency
+1. Install Leiningen, [2 version](https://raw.github.com/technomancy/leiningen/preview/bin/lein) is recommended
 1. g clone git://github.com/edtsech/cljstest.git
 1. cd cljstest
 1. lein2 deps
