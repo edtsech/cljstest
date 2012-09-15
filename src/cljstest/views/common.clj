@@ -5,7 +5,7 @@
 (defpartial layout [& content]
             (html5
               [:head
-               [:title "zz"]]
+               [:title "Hello World"]]
               [:body
                [:div#wrapper
                 content]]
