@@ -1,4 +1,4 @@
-(ns cljstest.views.lists
+(ns cljstest.views.welcome
   (:use [noir.core :only [defpage]]
         [cljstest.views.common]))
 
