@@ -1,2 +1,2 @@
 (ns cljstest.core)
-(js/alert "Hello World")
+(js/alert "Hello ClojureScript World")

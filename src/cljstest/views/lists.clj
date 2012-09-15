@@ -3,4 +3,4 @@
         [cljstest.views.common]))
 
 (defpage "/" [] 
-         (layout "Hello World"))
+         (layout "<h1>Hello World</h1>"))

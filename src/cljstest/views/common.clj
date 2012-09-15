@@ -5,8 +5,7 @@
 (defpartial layout [& content]
             (html5
               [:head
-               [:title "zz"]
-               (include-css "/css/reset.css")]
+               [:title "zz"]]
               [:body
                [:div#wrapper
                 content]]
