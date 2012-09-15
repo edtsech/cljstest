@@ -3,6 +3,7 @@
 /lib
 /classes
 /target
+/.clojurescript-output
 /native
 /.lein-failures
 /checkouts
