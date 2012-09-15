@@ -13,6 +13,10 @@ Noir & ClojureScript Hello World
 1. lein2 run
 1. open http://localhost:8080/
 
+## Play with jQuery
+
+[jayq](https://github.com/ibdknox/jayq)
+
 ## License
 
 Copyright (C) 2012 Edward Tsech
