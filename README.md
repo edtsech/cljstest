@@ -6,10 +6,10 @@ Noir & ClojureScript "Hello World"
 
 1. Clojure doesn't have to be on your system, it will be automatically installed as a project dependency
 1. Install Leiningen, [2 version](https://raw.github.com/technomancy/leiningen/preview/bin/lein) is recommended
-1. g clone git://github.com/edtsech/cljstest.git
+1. git clone git://github.com/edtsech/cljstest.git
 1. cd cljstest
 1. lein2 deps
-1. lein2 cljsbuild auto
+1. lein2 cljsbuild auto &
 1. lein2 run
 1. open http://localhost:8080/
 
